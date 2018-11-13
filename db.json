@@ -1,0 +1,44 @@
+{
+      "lastUpdated": "2018-11-13T04:39:57.547Z",
+      "games": [
+        {
+          "gameId": 12345,
+          "homeTeam": "Golden State Warriors",
+          "awayTeam": "Los Angeles Lakers",
+          "gameTime": "4:30 ET",
+          "homeTeamScore": 0,
+          "awayTeamScore": 0,
+          "currentQuarter": 1,
+          "currentQuarterSecondsLeft": 720,
+          "isUnplayed": true,
+          "isInProgress": false,
+          "isFinished": false
+        },
+        {
+          "gameId": 44444,
+          "homeTeam": "Boston Celtics",
+          "awayTeam": "Toronto Raptors",
+          "gameTime": "3:30 ET",
+          "homeTeamScore": 87,
+          "awayTeamScore": 89,
+          "currentQuarter": 4,
+          "currentQuarterSecondsLeft": 183,
+          "isUnplayed": false,
+          "isInProgress": true,
+          "isFinished": false
+        },
+        {
+          "gameId": 98523,
+          "homeTeam": "Philadelphia 76ers",
+          "awayTeam": "Minnesota Timberwolves",
+          "gameTime": "1:30 ET",
+          "homeTeamScore": 121,
+          "awayTeamScore": 123,
+          "currentQuarter": 4,
+          "currentQuarterSecondsLeft": 0,
+          "isUnplayed": false,
+          "isInProgress": false,
+          "isFinished": true
+        }
+      ]
+    }
